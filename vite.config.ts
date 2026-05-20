@@ -1,4 +1,6 @@
-import tailwindcss from '@tailwindcss/vite';
+plugins: [react()],
+  base: '/ljy-portfolio/'  // 这是新增的一行，要和你的仓库名完全一致
+})import tailwindcss from '@tailwindcss/vite';
 import react from '@vitejs/plugin-react';
 import path from 'path';
 import {defineConfig, loadEnv} from 'vite';

@@ -1,0 +1,8 @@
+{
+  "name": "李佳遥的个人主页",
+  "description": "李佳遥的个人作品集，展示产品设计与视觉传达的跨界才华。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
